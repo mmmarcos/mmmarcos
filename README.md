@@ -9,7 +9,6 @@ I develop in Python and C++, I enjoy automating stuff 🤖 and looking for new w
 ----
 
 ```
-> M: An argument is a connected series of statements intended to establish a proposition... it isn't just contradiction.
 > O: Look, if I *argue* with you, I must take up a contrary position!
 > M: Yes but it isn't just saying 'No it isn't'
 > O: Yes it is!
