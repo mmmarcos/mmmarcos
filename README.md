@@ -1,20 +1,21 @@
-### 👋 Hi there, my name is Marcos 
+### 👋 Hi, I'm Marcos! 
 
-I'm a Software Engineer working in the space industry 👨‍🚀. I am currently leading the [Visualization Toolkit for Space](https://timeloop.fr/vts/) of the French space agency (CNES) at [Spacebel](https://www.spacebel.com/).
+I'm a Software Engineer working in the space industry 👨‍🚀. I am currently leading the [Visualization Toolkit for Space](https://timeloop.fr/vts/) of the French government space agency (CNES) at Spacebel.
 
-I develop in Python and C++, I enjoy automating stuff 🤖 and looking for new ways to improve workflows 🙌. I also contribute to the official Python 🐍 Documentation translation to Spanish ([📖¡Ayúdanos a traducir!](https://python-docs-es.readthedocs.io/es/3.10/CONTRIBUTING.html)).
+I am a contributor to the official Python 🐍 Documentation translation to Spanish ([📖¡Ayúdanos a traducir!](https://python-docs-es.readthedocs.io/es/3.10/CONTRIBUTING.html)).
 
-📫 How to reach me: dev@marcos.mozmail.com
+📧 dev@marcos.mozmail.com
 
 ----
 
 ```
-> O: Look, if I *argue* with you, I must take up a contrary position!
-> M: Yes but it isn't just saying 'No it isn't'
-> O: Yes it is!
-> M: No it isn't!
+- An argument is a collective series of statements intended to establish a proposition.
+- No, it isn't.
+- Yes, it is. It isn't just contradiction. 
+- Look, if I *argue* with you, I must take up a contrary position!
+- Yes but it isn't just saying 'No it isn't'
+- Yes it is!
+- No it isn't!
+
+Argument - Monty Python
 ```
-
-[Argument - Monty Python](https://youtu.be/ohDB5gbtaEQ)
-
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) -->
