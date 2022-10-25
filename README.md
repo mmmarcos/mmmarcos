@@ -6,7 +6,7 @@
 
 :snake: I am a PSF Contributing Member and contributor to [python-docs-es](https://github.com/python/python-docs-es), the official Python Documentation translation to Spanish ([¡Ayúdanos a traducir!](https://python-docs-es.readthedocs.io/es/3.10/CONTRIBUTING.html)).
 
-:orange_book: Currently learning about HTTP/3 and QUIC, I recently translated Daniel Stenberg's great [HTTP/3 explained](https://http3-explained.haxx.se/) book.   
+:orange_book: Currently learning about HTTP/3 and QUIC, I recently translated Daniel Stenberg's great [HTTP/3 explained](https://http3-explained.haxx.se/).   
 
 
 #### :hammer_and_wrench: Languages and tools
