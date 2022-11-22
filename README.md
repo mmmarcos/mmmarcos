@@ -9,7 +9,7 @@
 :orange_book: Currently learning about HTTP/3 and QUIC, I recently translated Daniel Stenberg's great [HTTP/3 explained](https://http3-explained.haxx.se/).   
 
 
-#### :hammer_and_wrench: Languages and tools
+#### Languages and tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -28,12 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50"/>&nbsp; 
 </div>
 
-#### :mailbox: How to reach me
+#### How to reach me
 
-<div id="badges">
-  <a href="https://linkedin.com/in/marcosmedrano">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://twitter.com/mmmarcos">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+* https://twitter.com/mmmarcos
+* [@mmmarcos@mastodon.social](https://mastodon.social/@mmmarcos)
+* https://linkedin.com/in/marcosmedrano
