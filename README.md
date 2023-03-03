@@ -4,7 +4,7 @@
 
 :snake: I am a PSF Contributing Member and contributor to [python-docs-es](https://github.com/python/python-docs-es), the official Python Documentation translation to Spanish ([¡Ayúdanos a traducir!](https://python-docs-es.readthedocs.io/es/3.10/CONTRIBUTING.html)).
 
-:closed_lock_with_key: Currently building [Parsec](https://parsec.cloud/), an Open Source, ZeroTrust & ZeroKnowledge data sharing solution certified by the French government.
+:closed_lock_with_key: Currently building [Parsec](https://parsec.cloud/), an Open Source, ZeroTrust & ZeroKnowledge (end-to-end encryption) data sharing solution certified by the French government.
 
 :rocket: Previously, I led the [Visualization Toolkit for Space](https://timeloop.fr/vts/) of the French space agency (CNES), a +1M SLOC multi-platform toolkit for space data visualization.
 
